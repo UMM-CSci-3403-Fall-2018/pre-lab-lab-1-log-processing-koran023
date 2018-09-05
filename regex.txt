@@ -2,7 +2,7 @@
 (KK)..(muffins)|(Nic)..(donuts)|(Vincent)..(juice)
 
 # REGEX 1
-
+(KK).*(turkey)|(Nic).*(avacado)|(Vincent).*(ham)
 
 # REGEX 2
 
