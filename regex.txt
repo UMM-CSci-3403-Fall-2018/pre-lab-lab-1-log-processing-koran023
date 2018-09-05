@@ -5,4 +5,4 @@
 (KK).*(turkey)|(Nic).*(avacado)|(Vincent).*(ham)
 
 # REGEX 2
-
+([[a-zA-Z]+\.]+)( to go| for here)
